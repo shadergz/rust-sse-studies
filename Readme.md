@@ -1,6 +1,6 @@
 # RustSSE-Studies
 
-A collection of code used for understand some use-case of the SIMD extensions inside Rust programming language.
+A collection of code used for understand the use-cases of the SIMD extensions inside Rust programming language.
 
 ## Samples Description
 
