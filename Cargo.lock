@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rustssecodes"
+name = "RustSSE-Studies"
 version = "0.1.0"

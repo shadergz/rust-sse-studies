@@ -1,4 +1,4 @@
-# rustssecodes
+# RustSSE-Studies
 
 A collection of code used for understand the use-cases of the SIMD extensions inside Rust programming language.
 
@@ -18,11 +18,11 @@ and return the new vector as an integer array ([i32; 4])
 ## How to compile and run
 
 ~~~bash
-RustSSEstudies> cargo run
+RustSSE-Studies> cargo run
 ~~~
 
 ## How to clean
 
 ~~~bash
-RustSSEstudies> cargo clean
+RustSSE-Studies> cargo clean
 ~~~
